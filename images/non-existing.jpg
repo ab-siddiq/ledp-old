@@ -1,0 +1,1141 @@
+ 
+ 
+    <!DOCTYPE html>
+    <!--[if lt IE 7 ]>
+<html class="ie ie6" lang="en"> <![endif]-->
+    <!--[if IE 7 ]>
+<html class="ie ie7" lang="en"> <![endif]-->
+    <!--[if IE 8 ]>
+<html class="ie ie8" lang="en"> <![endif]-->
+    <!--[if (gte IE 9)|!(IE)]><!-->
+    <html lang="en">
+    <!--<![endif]-->
+    <meta charset="utf-8">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+
+        <!-- Mobile Specific Metas
+    ================================================== -->
+
+        <script type="text/javascript">
+            var switchTo5x = true;
+        </script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- required files for accesssibility by tt -->
+        <link rel="stylesheet" href="/themes/responsive_npf/templates/ministry/accessibility.css">
+        <script src="/themes/responsive_npf/js/jquery-accessibleMegaMenu.js"></script>
+
+        <!--<meta http-equiv="X-Frame-Options" content="deny">-->
+
+
+        <title>
+            non-existing.jpg - তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ-গণপ্রজাতন্ত্রী বাংলাদেশ সরকার        </title>
+        <!-- ======================= tt title End ======================== -->
+        <!-- ======================= tt Description start ======================== -->
+                    <meta name="description" content="The requested page could not be found.">
+            <!-- ======================= tt Description End ======================== -->
+
+
+            <!-- Social Sharing-->
+            <!-- for Facebook -->
+            <meta property="og:title" content="তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ" />
+            <meta property="og:type" content="website" />
+            <meta property="og:image" content="/themes/responsive_npf/img/200X200.png" />
+            <meta property="og:url" content="http%3A%2F%2Fictd.gov.bd%2Fthemes%2Fresponsive_npf%2Fjs%2Fad_slider%2Fnon-existing.jpg" />
+            <meta property="og:description" content="The requested page could not be found." />
+
+            <!-- for Twitter -->
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:title" content="তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ" />
+            <meta name="twitter:description" content="The requested page could not be found." />
+            <meta name="twitter:image" content="/themes/responsive_npf/img/400X400.png" />
+
+
+            
+
+
+                
+                                <link type="text/css" rel="stylesheet" media="all" href="/themes/responsive_npf/stylesheets/base.css" /><link type="text/css" rel="stylesheet" media="all" href="/themes/responsive_npf/stylesheets/skeleton.css" /><link type="text/css" rel="stylesheet" media="all" href="/themes/responsive_npf/stylesheets/style.css" /><link type="text/css" rel="stylesheet" media="all" href="/themes/responsive_npf/stylesheets/meganizr.css" /><link type="text/css" rel="stylesheet" media="all" href="/themes/responsive_npf/stylesheets/demo.css" /><link type="text/css" rel="stylesheet" media="all" href="/npfadmin/public/css/flaticon/flaticon.css" /><link type="text/css" rel="stylesheet" media="all" href="/themes/responsive_npf/templates/ministry/style.css" />
+                <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+                <script>
+                    $(document).ready(function(){
+
+                        var fullText = $('.updateText').text();
+                        var fullText1 = fullText.substring(0, fullText.indexOf(":"));
+                        var fullText2 = fullText.substring(fullText.indexOf(":") + 1);
+                        var dateText = fullText2;
+                        var mapObj = {
+                               st:"",
+                               nd:"",
+                               rd:"",
+                               th:"",
+                            };
+                            dateText = dateText.replace(/st|nd|rd|th/g, function(matched){
+                                return mapObj[matched];
+                            });
+                        var resultDate =  fullText1+':'+dateText;
+                        $('.updateText').text(resultDate);       
+                        if($('input#email').is(":visible")){
+                            $('input#email').attr('type','email');
+                        }
+                    });
+                </script>
+
+                <script>
+                    //jq160 = jQuery.noConflict( true );
+                </script>
+                
+                <link rel="stylesheet" href="/themes/responsive_npf/stylesheets/responsiveslides.css">
+                <link rel="stylesheet" href="/themes/responsive_npf/templates/ministry/responsive.css">
+                <script src="/themes/responsive_npf/js/responsiveslides.min.js"></script>
+                <script src="/themes/responsive_npf/js/jquery.vticker.js" type="text/javascript"></script>
+
+                <script src="/themes/responsive_npf/js/domain_selector.js" type="text/javascript"></script>
+                <script src="/themes/responsive_npf/js/utils.js" type="text/javascript"></script>
+                <script src="/themes/responsive_npf/js/jquery.media.js" type="text/javascript"></script>
+
+
+                <meta property="og:image" content="" />
+
+                <!-- Matomo -->
+                    <!-- <script type="text/javascript">
+                      var _paq = window._paq || [];
+                      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+                      _paq.push(['trackPageView']);
+                      _paq.push(['enableLinkTracking']);
+                      (function() {
+                        var u="//localhost/analytics/matomo/";
+                        _paq.push(['setTrackerUrl', u+'matomo.php']);
+                        _paq.push(['setSiteId', '1']);
+                        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+                      })();
+                    </script> -->
+                <!-- End Matomo Code -->
+
+    </head>
+
+    <body class="ictd-portal-gov-bd">
+
+        <!-- ====== start jump to selections ======   -->
+        <a class="skip-link" href="/accessibility.html" target="_blank">Accessibility Help</a>
+        <a class="skip-link" href="#jmenu">Jump to Menu</a>
+        <a class="skip-link" href="#contents">Jump to Content</a>
+        <a class="skip-link" href="#search">Jump to Search</a>
+        <a class="skip-link" href="#btnLang">Jump to Language</a>
+        <!-- ====== End jump to selections ======   -->
+
+
+        <div class="container inner-page">
+
+            
+                <script src="//bangladesh.gov.bd/nav/js/obd.main.js?v=1598544628"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.js"></script>
+<link rel="stylesheet" media="all" type="text/css" href="//bangladesh.gov.bd/nav/css/obd.main.css">
+
+
+
+<div class="sixteen columns" style="background-color: #683091; box-shadow: 0 1px 5px #999999;width: 960px;border-bottom: 4px solid #8bc643;">
+		<div class="slide-panel-btns" style="float: left;width: 165px;height: 30px">
+						<div class="slide-panel-button" style="display: table;margin-top: 5px">
+				<!-- <i class="flaticon-menu10"></i> -->
+				<a style="color: white;font-size:.9em;" href="http://www.bangladesh.gov.bd/" target="_blank">বাংলাদেশ জাতীয় তথ্য বাতায়ন</a>
+			</div>
+					</div>
+		<div id="div-lang" style="float:left;width: 795px;height: 32px;">
+			<div id="newNavigation"></div>
+			<div id="div-lang-sel">
+			<div id="search_any" style="float: left">
+        <form action="/site/search" style="margin-top: 5px;padding: 0;float: left;">
+            <input style="width:90px;border-radius: 4px;height: 18px;" id="search" name="key" value="" />
+            <button class="search-btn" type="submit" style="margin: 0;padding: 1px 10px">Search</button>
+        </form>
+        </div>
+        <div style="float: left;margin-left: 5px">
+
+				<form id="lang_form" action="/themes/responsive_npf/js/ad_slider/non-existing.jpg" method="post">
+																		<input type="hidden" name="lang" id="lang" value="en" />
+							<button type="submit" style="padding: 2px;margin-top: 5px">English</button>
+											</form>
+		</div>		
+
+			</div>
+
+		</div>
+</div>
+
+
+
+
+<div class="sixteen columns">
+	<div class="callbacks_container" style="box-shadow: 0 1px 5px #999999;">
+		<ul class="rslides" id="front-image-slider">
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/6e2e4ff6_abf3_4ff2_8577_d68b7f155430/Check1.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/c8c2e326_f0dd_4f0d_8972_b748b556d2af/Banner1.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/68d216d0_9d35_4869_952b_50bbc748babc/banner4.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/6c3c690c_dd25_4135_b386_0ab127da5c16/Banner2.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/bc12545f_e0cf_4dfa_b029_0f0c5da9312d/wsis prize.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/ea581903_79f5_4c41_ad36_e226ca41b57b/banner.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/9440fe86_7d13_40e1_b154_f82f054f603b/14.01.2020.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/5c80ef78_f0e5_4b2c_bdaf_bdd0e785aa4a/banner-3.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/ed5abe9c_ccf0_48cd_96bb_dcb40ada760a/banner-1.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+		<li>
+		
+		            	
+                <img src="//ictd.gov.bd/sites/default/files/files/ictd.portal.gov.bd/top_banner/e4873a50_717f_457d_9542_aa3231c3c2be/banner.jpg" alt="" width="960" height="220"/>   
+			
+
+            		
+		</li>
+	</ul><style>.rslides img{height:220px}</style><script></script>	</div>
+
+
+	<div class="header-site-info" id="header-site-info">
+
+		<div>
+
+			<div id="logo">
+									<a title="Home" href="/">
+						<img alt="Home" src="/themes/responsive_npf/img/logo/logo.png">
+					</a>
+
+			</div>
+
+			<div class="clearfix" id="site-name-wrapper">
+				<span id="site-name">
+					<a title="Home" href="/">
+						তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ					</a>
+				</span>
+				<span id="slogan">
+					গণপ্রজাতন্ত্রী বাংলাদেশ সরকার				</span>
+			</div>
+			<!-- /site-name-wrapper -->
+
+		</div>
+		<!-- /header-site-info-inner -->
+
+	</div>
+
+</div>
+<script>
+            /* Responsive Design*/
+            $(document).ready(function () {
+                var wi = $( window ).width();
+                if(wi < 980){
+                    $('.mzr-responsive').slideUp();
+                    $('#jmenu .show-menu').click(function () {
+                        //$('.mzr-responsive').show();
+                        $(".mzr-responsive").slideToggle(400,"linear", function () {
+                            
+                        });
+                    });
+          
+                    $("#jmenu a.submenu").click(function() {
+                        
+                      $('#jmenu a.submenu').siblings().addClass('sibling-toggle');
+                      $(this).parent().find(".mzr-content").removeClass('sibling-toggle').addClass('slide-visible').slideToggle(400,"linear", function() {
+                        return false;
+                      });
+                      // return false;
+                    });
+                } 
+
+            });
+            
+        </script>
+      
+  
+        <div class="sixteen columns" id="jmenu">
+            <div class="sixteen columns">
+
+               <a href="javascript:;" class="show-menu menu-head"> মেনু নির্বাচন করুন</a>
+                <div role="navigation" id="dawgdrops">
+                    <ul class="meganizr mzr-slide mzr-responsive" >
+                        <!-- Build The Menu -->
+                        <li class="col0 "><a title="Home" href="/" style="background-image: url(/themes/responsive_npf/img/home_dark.png);margin-top:5px;"></a></li><li class="col1 mzr-drop"><a href="#" class="submenu">বিভাগ সম্পর্কিত </a><div class="mzr-content drop-one-columns"><div class="one-col"><h6></h6><ul class="mzr-links"><li><a href="/site/page/ab439356-145f-4759-942d-39ea506ff144/ইতিহাস-ও-প্রধান-কার্যাবলি">ইতিহাস ও প্রধান কার্যাবলি</a></li><li><a href="/site/page/ff299ff2-fd12-4dad-abd6-6b58cbf67610/-ভিশন-ও-মিশন-"> ভিশন ও মিশন </a></li><li><a href="/site/page/6cb2d28e-c5c3-4043-a6c3-baae14c98c70/অর্গানোগ্রাম">অর্গানোগ্রাম</a></li><li><a href="/site/office_citizen_charter/e4665996-8ffe-4f10-a21b-3998fe9c06ae/সিটিজেন-চার্টার-">সিটিজেন চার্টার </a></li><li><a href="/site/page/60483757-1d19-4738-be88-61d345642f1d/কর্মবণ্টন">কর্মবণ্টন</a></li></ul></div></div></li><li class="col2 mzr-drop"><a href="#" class="submenu">মাননীয় উপদেষ্টা/প্রতিমন্ত্রী</a><div class="mzr-content drop-one-columns"><div class="one-col"><h6></h6><ul class="mzr-links"><li><a href="/site/biography/60639e46-13db-4472-982e-d7e77af01eff/মাননীয়-উপদেষ্টা">মাননীয় উপদেষ্টা</a></li><li><a href="/site/biography/a6c4ef82-7699-45f1-b716-1c946f29e204/মাননীয়-প্রতিমন্ত্রী">মাননীয় প্রতিমন্ত্রী</a></li><li><a href="nolink/"></a></li></ul></div></div></li><li class="col3 mzr-drop"><a href="#" class="submenu">দপ্তর/সংস্থা </a><div class="mzr-content drop-two-columns"><div class="one-col"><h6>দপ্তর/সংস্থা প্রধান</h6><ul class="mzr-links"><li><a href="/site/page/c82d0469-4fe3-4fe6-8615-4fd90b11b133/---দপ্তর/সংস্থা-প্রধানের-তালিকা--">   দপ্তর/সংস্থা প্রধানের তালিকা  </a></li></ul></div><div class="one-col"><h6>দপ্তর/সংস্থার ওয়েব সাইট </h6><ul class="mzr-links"><li><a href="http://www.bcc.gov.bd/">বাংলাদেশ কম্পিউটার কাউন্সিল (বিসিসি)</a></li><li><a href="http://bhtpa.gov.bd/">বাংলাদেশ হাই-টেক পার্ক অথরিটি</a></li><li><a href="http://www.cca.gov.bd/">ইলেক্ট্রনিক স্বাক্ষর সার্টিফিকেট প্রদানকারী কর্তৃপক্ষের নিয়ন্ত্রকের কার্যালয় (সিসিএ)</a></li><li><a href="http://doict.portal.gov.bd">তথ্য ও যোগাযোগ প্রযুক্তি অধিদপ্তর</a></li><li><a href="http://dsa.gov.bd/">ডিজিটাল নিরাপত্তা এজেন্সি</a></li></ul></div></div></li><li class="col4 mzr-drop"><a href="#" class="submenu">প্রকল্প/কর্মসূচি </a><div class="mzr-content drop-two-columns"><div class="one-col"><h6>উন্নয়ন প্রকল্পসমূহ </h6><ul class="mzr-links"><li><a href="/site/page/847fccce-adfa-4bf0-b0b2-cb18d6208000/চলমান-প্রকল্প">চলমান প্রকল্প</a></li><li><a href="/site/page/927f5411-e560-4bbd-ae0f-3a8afb8ad61b/ক্রয়-পরিকল্পনা">ক্রয় পরিকল্পনা</a></li><li><a href="/site/page/5fde434b-b18c-48b1-a2f2-a09cdff20b4e/সমাপ্ত-প্রকল্পসমূহ">সমাপ্ত প্রকল্পসমূহ</a></li></ul></div><div class="one-col"><h6>কর্মসূচিসমূহ </h6><ul class="mzr-links"><li><a href="/site/page/ed3fd8c5-ce39-4b72-ae2f-8783d65ba5bd/চলমান-কর্মসূচি">চলমান কর্মসূচি</a></li><li><a href="/site/page/99ac0a2e-766b-4efe-a169-d24c5287c9de/সমাপ্ত-কর্মসূচিসমূহ">সমাপ্ত কর্মসূচিসমূহ</a></li></ul></div></div></li><li class="col5 mzr-drop"><a href="#" class="submenu">আইন/নীতিমালা</a><div class="mzr-content drop-one-columns"><div class="one-col"><h6></h6><ul class="mzr-links"><li><a href="/site/view/policies/নীতিমালা-">নীতিমালা </a></li><li><a href="/site/view/law/আইন-ও-বিধি-">আইন ও বিধি </a></li><li><a href="http://ictd.portal.gov.bd/site/page/d05a8088-8272-49b4-883c-1698796dce3e/%E0%A6%96%E0%A6%B8%E0%A7%9C%E0%A6%BE-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF-">খসড়া আইন ও বিধি এবং নীতিমালা</a></li></ul></div></div></li><li class="col6 mzr-drop"><a href="#" class="submenu">ই-সেবা</a><div class="mzr-content drop-one-columns"><div class="one-col"><h6></h6><ul class="mzr-links"><li><a href="http://ims.ictd.gov.bd/">ফেলোশিপ ও বৃত্তি এবং ইনোভেশন ফান্ড এর আবেদন</a></li><li><a href="http://nothi.gov.bd/users/sslLogin">ই-নথি </a></li><li><a href="https://mail.bcc.net.bd/login.nsf?Open">ওয়েব মেইল </a></li><li><a href="https://ibas.finance.gov.bd/ibas2/Security/Login">অনলাইনে বেতন দাখিল</a></li><li><a href="http://www.eprocure.gov.bd/">ই-টেন্ডারিং(e-GP)</a></li><li><a href="http://grp.gov.bd/global/web/login">GRP</a></li><li><a href="https://play.google.com/store/apps/developer?id=National%20Apps%20Bangladesh">National Apps(100)</a></li><li><a href="http://www.national500apps.com/index.php?r=site/allapps">National Apps(500)</a></li></ul></div></div></li><li class="col7 mzr-drop"><a class="submenu" href=" ">করোনাভাইরাস </a><div class="mzr-content drop-one-columns"><div class="one-col"><h6></h6><ul class="mzr-links"><li><a href="http://www.corona.gov.bd ">করোনাভাইরাস  </a></li><li><a href="https://www.youtube.com/watch?v=gCZo8V0QVDs&amp;feature=youtu.be">মাননীয় প্রধানমন্ত্রীর ৩১ দফা নির্দেশনা</a></li><li><a href="https://livecoronatest.com/">করোনা ঝুঁকি পরীক্ষা করুন</a></li><li><a href="https://callfornation.com/">Call for nation</a></li><li><a href="http://covid19tracker.gov.bd">কোভিড-১৯ ট্র‍্যাকার</a></li><li><a href="https://bit.ly/coronatracerbd  ">করোনা ট্রেসার বিডি অ্যাপ</a></li></ul></div></div></li><li class="col8 mzr-drop"><a class="submenu" href="https://mujib100.gov.bd/">মুজিব বর্ষ </a><div class="mzr-content drop-one-columns"><div class="one-col"><h6></h6><ul class="mzr-links"><li><a href="http://mujib100.gov.bd/"> মুজিব বর্ষ</a></li></ul></div></div></li><li class="col9 mzr-drop"><a href="#" class="submenu">ডিজিটাল মেলা ২০২০</a><div class="mzr-content drop-one-columns"><div class="one-col"><h6></h6><ul class="mzr-links"><li><a href="https://bangladesh.gov.bd/site/view/digitalfair2020">ডিজিটাল মেলা ২০২০</a></li></ul></div></div></li>                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            $(document).ready(function(){
+                $('.col6 a').on('click',function(){
+                    var link_value = $(this).attr("href");
+                    window.location.replace(link_value);
+                });
+            });
+        </script>
+
+<style>
+	.right-side-bar .block ul li a {
+		font-size: 14px;
+	}
+
+	#notice-board ul a {
+		font-size: 14px;
+	}
+
+	@media screen and (min-width: 1400px) {
+		.mainwrapper .box {
+			margin-right: 13px
+		}
+	}
+</style>
+
+
+
+                <div id="contents" class="sixteen columns">
+                    
+         <div class="accessibilityDesign" id="accessibilityDesign" title="লিখার রঙ ও সাইজ পরিবর্তন করুন">
+             <div class="textSize">
+                 <span>Text size</span>
+                 <span  title="Small font" class="font-small" onclick="fontSize(12)">A</span>
+                 <span title="Medium font" class="font-medium" onclick="fontSize(20)">A</span>
+                 <span  title="Large font" class="font-large" onclick="fontSize(25)">A</span>
+             </div>
+             <div class="textBg">
+                 <span>Color</span>
+                 <span  title="Bancground white text black" class="color-1" onclick="fontBgColor('fff','000')">C</span>
+                 <span  title="Bancground blue text black" class="color-2" onclick="fontBgColor('cfe5fc','21205f')">C</span>
+                 <span  title="Bancground black text yellow" class="color-3" onclick="fontBgColor('2f2f2f','ffff00')">C</span>
+                 <span  title="Bancground grey text blue" class="color-4" onclick="fontBgColor('f7f3d6','000066')">C</span>
+             </div>
+         </div>
+
+<script>
+    function fontSize(size){
+        var Size = size;
+        $("#left-content").css({"font-size":Size + "px" });
+        $("#left-content div").css({"font-size":Size + "px" });
+        $("#left-content p").css({"font-size":Size + "px" });
+        $("#left-content a").css({"font-size":Size + "px" });
+        $("#left-content h1").css({"font-size":Size + "px" });
+        $("#left-content h2").css({"font-size":Size + "px" });
+        $("#left-content h3").css({"font-size":Size + "px" });
+        $("#left-content h4").css({"font-size":Size + "px" });
+        $("#left-content h5").css({"font-size":Size + "px" });
+        $("#left-content h6").css({"font-size":Size + "px" });
+        $("#left-content span").css({"font-size":Size + "px" });
+
+    }
+    function fontBgColor(bgColor,fontColor){
+        var FontColor = fontColor;
+        var BgColor = bgColor;
+        $("#left-content").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content div").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content a").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content p").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content span").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content h1").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content h2").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content h3").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content h4").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content h5").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+        $("#left-content h6").css({"background-color":"#"+ BgColor, "color":"#"+FontColor});
+    }
+
+</script>
+                                        <div class="twelve columns" id="left-content">
+                                                                        The requested page could not be found.
+
+                            
+                            <div id="share-buttons" style="clear:both">
+    <br/>
+    <p>
+        <b>Share with :</b>
+    </p>
+
+
+    <!-- Facebook -->
+    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fictd.gov.bd%2Fthemes%2Fresponsive_npf%2Fjs%2Fad_slider%2Fnon-existing.jpg&quote=non-existing.jpg - তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ-গণপ্রজাতন্ত্রী বাংলাদেশ সরকার" target="_blank">
+        <img src="/themes/responsive_npf/img/facebook.png " alt="Facebook " />
+    </a>
+    <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fictd.gov.bd%2Fthemes%2Fresponsive_npf%2Fjs%2Fad_slider%2Fnon-existing.jpg&text=non-existing.jpg - তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ-গণপ্রজাতন্ত্রী বাংলাদেশ সরকার" target="_blank">
+        <img src="/themes/responsive_npf/img/twitter.png" alt="Facebook" />
+    </a>
+</div>
+
+
+                    </div>
+                    <div class="four columns right-side-bar" id="right-content">
+
+                        <div class="column block">
+	<h5 class="bk-org title">
+  		মাননীয় উপদেষ্টা   	</h5>
+  
+  <p style="text-align:center"><img alt="" src="https://ictd.portal.gov.bd/uploader/server/../../sites/default/files/files/ictd.portal.gov.bd/npfblock//last-pic-adviser.jpg" style="height:135px; margin-left:50px; margin-right:50px; width:130px" /></p>
+
+<p style="text-align:center"><span style="color:#008000"><span style="font-size:16px">জনাব&nbsp;সজীব ওয়াজেদ</span></span></p>
+
+<p style="text-align:center">&nbsp; <span style="font-size:16px">&nbsp;প্রধানমন্ত্রীর আইসিটি বিষয়ক মাননীয়&nbsp;উপদেষ্টা&nbsp;</span></p>
+<p>
+        <a href="/site/biography/60639e46-13db-4472-982e-d7e77af01eff" class="btn" style="display:block;text-align:center;width:100%;">বিস্তারিত</a>
+      </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		মাননীয় প্রতিমন্ত্রী   	</h5>
+  
+  <p style="text-align:center"><img alt="" src="https://ictd.portal.gov.bd/uploader/server/../../sites/default/files/files/ictd.portal.gov.bd/npfblock//HSM%20%281%29.jpg" style="height:140px; margin-left:50px; margin-right:50px; width:114px" /></p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="color:#008000">জনাব জুনাইদ আহ্&zwnj;মেদ পলক&nbsp;</span><span style="font-size:14px"><span style="color:#000000">এমপি</span></span></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="color:rgb(0, 0, 0)">মাননীয় প্রতিমন্ত্রী</span></span></p>
+<p>
+        <a href="/site/biography/a6c4ef82-7699-45f1-b716-1c946f29e204/0" class="btn" style="display:block;text-align:center;width:100%;">বিস্তারিত</a>
+      </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		সিনিয়র সচিব   	</h5>
+  
+  <p style="text-align:center"><img alt="" src="https://ictd.portal.gov.bd/uploader/server/../../sites/default/files/files/ictd.portal.gov.bd/npfblock//Senior%20Secretary.jpg" style="height:152px; margin-left:50px; margin-right:50px; width:120px" /></p>
+
+<p style="text-align:center"><span style="color:rgb(0, 128, 0)"><span style="font-size:16px"><strong>জনাব&nbsp;এন এম জিয়াউল আলম <span style="font-size:14px">পিএএ</span></strong></span></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><strong>সিনিয়র সচিব</strong></span></p>
+
+<p>&nbsp;</p>
+<p>
+        <a href="/site/biography/bf422def-b73d-4f9d-9b51-0474223e64d8" class="btn" style="display:block;text-align:center;width:100%;">বিস্তারিত</a>
+      </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">অভ্যন্তরীণ ই-সেবা
+	</h5>
+				<ul>
+				
+				
+				<li><a href="http://www.eprocure.gov.bd/">ই-টেন্ডারিং(eGP) </a></li>
+				
+				
+				<li><a href="http://mail.ictd.gov.bd">ওয়েব মেইল </a></li>
+				
+				
+				<li><a href="/site/page/fa06cdad-01f5-4439-b6b9-4c595e1176a6/বৃত্তি-ও-আইসিটি-উদ্ভাবনী-অনুদান">বৃত্তি ও আইসিটি উদ্ভাবনী অনুদান</a></li>
+				
+				
+				<li><a href="http://nea.bcc.gov.bd/">ন্যাশনাল এন্টারপ্রাইজ আর্কিটেকচার</a></li>
+				
+				
+				<li><a href="https://www.cirt.gov.bd/">সিআইআরটি</a></li>
+				
+				
+				<li><a href="http://www.ebook.gov.bd/">ই-বুক</a></li>
+					</ul>
+			<a href="/site/view/internal_eservices" style="display:block;text-align:right;text-decoration:underline;">সকল </a>
+		
+	<!-- <a href="/site/view/internal_eservices" class="btn" style="display:block;text-align:center;">সকল ই-সেবা</a> -->
+	<!--<a href="/site/view/internal_eservices" style="display:block;text-align:right;text-decoration:underline;">সকল </a>> -->
+	
+</div>
+<style></style><script></script><a href="//bangladesh.gov.bd/site/view/all_eservices_in_bangladesh/">
+  <div class="column block central-eservices">
+    <h5 class="bk-org title eservice-title">কেন্দ্রীয় ই-সেবা</h5>
+  </div>
+</a>
+
+<!-- <div class="column block central-eservices">
+  <h5 class="bk-org title eservice-title">কেন্দ্রীয় ই-সেবা
+  </h5>
+        <ul>
+        
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+              
+        
+        <li class="item_"></li>
+                </ul>
+          <a href="" class="btn" style="display:block;text-align:center;">সকল</a>
+      </div>
+ --><style>.eservice-title {
+    background-color: #609513 !important;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px;
+}
+.block ul li {
+  background: rgba(0, 0, 0, 0) url("/themes/responsive_npf/images/bg_block_list.png") no-repeat scroll center bottom;
+  font-size: 120%;
+  height: auto;
+  list-style-type: none;
+  margin-bottom: 5px;
+  padding-bottom: 8px;
+  padding-left: 32px;
+  padding-top: 0;
+}
+
+body.bpsc-portal-gov-bd .wsis_prize{display:none}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		আর্কাইভ   	</h5>
+  
+  <p><a href="/site/page/b7986866-73e4-4873-973d-577829b5cc20" style="line-height: 1.6em;">CTO FORUM-2014&nbsp;</a></p>
+
+<p><a href="/site/page/5c24d16a-0533-4dd5-b1cd-1f71948bfbe0">পত্রিকায় প্রকাশিত আইসিটি সম্পর্কিত প্রতিবেদনসমূহ &nbsp;&nbsp;</a></p>
+
+<p><a href="/site/page/8ce512eb-592c-4530-b415-6b44881d4258">ডিজিটাল ওয়ার্ল্ড/আইসিটি এক্সপো&nbsp;</a></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		ওয়েবসাইট দর্শনার্থী [০৬.১১.২০১৯ তারিখ থেকে কার্যকর]  	</h5>
+  
+   <a href='https://free-hit-counters.net/'>Free-Hit-Counters.net</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=f884fc0bd4379c80538417d3da68828dc3385b5c'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/596768/t/6"></script><p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		Call for Nation  	</h5>
+  
+  <p><a href="https://callfornation.com"><img alt="" src="https://ictd.portal.gov.bd/uploader/server/../../sites/default/files/files/ictd.portal.gov.bd/npfblock/eb04e391_6633_4288_968e_317f00cd2059/webphoto.jpg" style="height:150px; width:220px" /></a></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		লাইভ করোনা ঝুঁকি টেস্ট  	</h5>
+  
+  <p><a href="https://livecoronatest.com/"><img alt="" src="https://ictd.portal.gov.bd/uploader/server/../../sites/default/files/files/ictd.portal.gov.bd/npfblock/a9b2b085_241c_46d1_bebf_aeb8ed4deb5d/webphoto2.jpg" style="height:155px; width:220px" /></a></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  জরুরি হটলাইন 
+  </h5>
+  <p><img alt="" src="/sites/default/files/files/admin.portal.gov.bd/npfblock//National-Helpline.jpg" style="height:445px; width:220px" /></p>
+<p>
+    </p>
+</div>
+<style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		করোনা ভাইরাস প্রতিরোধে যোগাযোগ  	</h5>
+  
+  <p><a href="https://corona.gov.bd/" target="_blank"><img alt="করোনা হটলাইন নম্বর" src="/sites/default/files/files/admin.portal.gov.bd/npfblock//corona_new.jpg" style="border-style:solid; border-width:1px; width:100%" /></a></p>
+
+<p>&nbsp;</p>
+
+<p><iframe frameborder="0" src="https://www.youtube.com/embed/GVPJHDp29tg" width="100%"></iframe></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		করোনা ট্রেসার বিডি  	</h5>
+  
+  <p><a href="https://bit.ly/coronatracerbd" target="_blank"><img alt="" src="/sites/default/files/files/admin.portal.gov.bd/npfblock/5d18830f_9fe8_42e1_965d_f94a61510be9/2020-06-16-00-21-94946eae5bcbd226dff95be9d2e49445.jpg" style="width:100%" /></a></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		বন্যার সময় কি করণীয়  	</h5>
+  
+  <p><iframe frameborder="0" src="https://www.youtube.com/embed/GT9ShGE_qjg" width="100%"></iframe></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		একদেশ  	</h5>
+  
+  <p style="text-align:center"><a href="//ekdesh.ekpay.gov.bd/" target="_blank"><img alt="" src="/sites/default/files/files/admin.portal.gov.bd/npfblock/6489f67c_f1ab_4c6f_879c_62b91a2bf45c/2020-05-18-15-22-d1cb9a8e17dbdaed8c9badd286910939.jpg" style="width:100%" /></a></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+	জাতীয় সংগীত	
+	</h5>
+<audio controls="" style="width:100%">
+ <source src="/sites/default/files/files/cabinet.portal.gov.bd/page/e5f25d4e_f0a7_4b2a_a07c_3ec69a793516/bd_national_anthem.mp3" type="audio/mp3">
+</audio>
+</div>
+<style></style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		ডিজিটাল বাংলাদেশ দিবস ২০১৯ - সংগীত ভিডিও  	</h5>
+  
+  <p><iframe frameborder="0" src="https://www.youtube.com/embed/CGEr6m8aUwQ" width="100%"></iframe></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		পাবলিক সেক্টর ইনোভেশন একটি দেশের রূপান্তর  	</h5>
+  
+  <p><iframe frameborder="0" src="https://www.youtube.com/embed/GQcmbqD0r7o" width="100%"></iframe></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+  <h5 class="bk-org title">
+  ডেঙ্গু প্রতিরোধে করণীয় 
+  </h5>
+  <p><a href="https://bangladesh.gov.bd/site/page/91530698-c795-4542-88f2-5da1870bd50c" target="_blank"><img alt="" src="/sites/default/files/files/admin.portal.gov.bd/npfblock//dengu.jpg" style="height:200px; width:220px" /></a></p>
+<p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">
+  		<a href="//ictd.gov.bd/site/view/sps_data" style="color: white;">সেবা সহজিকরণ</a>
+  	</h5>
+  
+  <p>
+    </p>
+</div><style>#right-content .block { display:block !important}</style><script></script><div class="column block">
+	<h5 class="bk-org title">ইনোভেশন কর্নার
+	</h5>
+				<ul>
+				
+				
+			<li><a href="/site/view/innovation/Innovation Team">ইনোভেশন টিম </a></li>
+				
+				
+			<li><a href="/site/view/innovation/Innovation Idea">ইনোভেশন আইডিয়া</a></li>
+				
+				
+			<li><a href="/site/view/innovation/Work Plan">ইনোভেশন কর্মপরিকল্পনা </a></li>
+				
+				
+			<li><a href="/site/view/innovation/List of Piloting project">পাইলটিং প্রকল্পের তালিকা</a></li>
+				
+				
+			<li><a href="/site/view/innovation/Evaluation">অর্ধ-বার্ষিক/বার্ষিক মূল্যায়ন</a></li>
+					</ul>
+			</div>
+<style></style><script></script><div class="column block">
+<h5 class="bk-org title"> সামাজিক যোগাযোগ </h5>
+
+		<a href="https://www.facebook.com/ictdivisionbd/" target="_blank" class="share-buttons">
+							<img src="/themes/responsive_npf/img/social/facebook.png" alt="ফেসবুক" />
+						</a> 	
+			
+			
+			
+			
+			
+			
+			
+	
+
+			
+			
+		<a href="https://twitter.com/ictdivision" target="_blank" class="share-buttons">
+							<img src="/themes/responsive_npf/img/social/twitter.png" alt="টুইটার পেজ " />
+						</a> 	
+			
+			
+			
+			
+			
+	
+
+			
+			
+			
+			
+			
+			
+		<a href="https://www.youtube.com/user/ictdivision/videos" target="_blank" class="share-buttons">
+							<img src="/themes/responsive_npf/img/social/youtube.png" alt="ইউটিউব চ্যানেল " />
+						</a> 	
+			
+	
+
+			
+			
+			
+			
+		<a href="https://www.instagram.com/ictdivision/" target="_blank" class="share-buttons">
+							<img src="/themes/responsive_npf/img/social/instagram.png" alt="ইনস্টাগ্রাম " />
+						</a> 	
+			
+			
+			
+	
+
+			
+		<a href="https://plus.google.com/+ICTDivisionbd" target="_blank" class="share-buttons">
+							<img src="/themes/responsive_npf/img/social/google.png" alt="" />
+						</a> 	
+			
+			
+			
+			
+			
+			
+	
+</div>
+
+<div class="clearfix"></div>
+<style>.share-buttons img {
+		width: 30px;
+		padding: 2px;
+		border: 0;
+		box-shadow: 0;
+		display: inline;
+}</style><script></script><script>
+	$(document).ready(function(){
+		el = $('h5:contains("সেবা সহজিকরণ")');
+		text = el.html()
+		el.html('').html('<a style="color:#fff" href="/site/view/sps_data">'+text+'<a>');
+	});
+</script><style></style><script></script>
+                            <!--<div class="column block">
+						<h5 style="background-color: #eee;">Number of Visitors:
+						<span style="padding:5px; background-color: #609513; color: #fff; font-weight:bold;">
+													<span>
+					</h5>
+					</div>-->
+
+
+                                                </div>
+                    
+
+                </div>
+        </div>
+        <!-- container -->
+
+        <script>
+
+
+        function setLanguageCookie(cookieValue) {
+            var today = new Date();
+            var expire = new Date();
+            var cookieName = 'lang';
+            //var cookieValue = "bn";
+            var nDays = 5;
+            expire.setTime(today.getTime() + 3600000 * 24 * nDays);
+            document.cookie = cookieName + "=" + escape(cookieValue)
+                + ";expires=" + expire.toGMTString();
+        }
+
+        function setLanguage() {
+            $("#lang_form").submit();
+            return false;
+        }
+       
+        $(function () {
+
+            // Slideshow 4
+            $("#front-image-slider").responsiveSlides({
+                auto: true,
+                pager: false,
+                nav: true,
+                speed: 2000,
+                maxwidth: 960,
+                namespace: "callbacks"
+            });
+            $("#right-content a").click(function () {
+                var url = $(this).attr('href');
+                if (isExternal(url) && url != 'javascript:;') {
+                    openInNewTab(url);
+                    return false;
+                }
+            });
+        });
+        function openInNewTab(url) {
+            var win = window.open(url, '_blank');
+            win.focus();
+        }
+        function isExternal(url) {
+            var match = url.match(/^([^:\/?#]+:)?(?:\/\/([^\/?#]*))?([^?#]+)?(\?[^#]*)?(#.*)?/);
+            if (typeof match[1] === "string" && match[1].length > 0 && match[1].toLowerCase() !== location.protocol)
+                return true;
+            if (typeof match[2] === "string" && match[2].length > 0 && match[2].replace(new RegExp(":(" + {
+                        "http:": 80,
+                        "https:": 443
+                    }[location.protocol] + ")?$"), "") !== location.host)
+                return true;
+            return false;
+        }
+    </script>
+
+
+
+
+
+<script>
+    $(".meganizr .mzr-drop").keyup(function () {
+
+        $(".mzr-content").attr("aria-hidden", "true");
+        $(this).find(".mzr-content").attr("aria-hidden", "false");
+    });
+    // ============ start tile for <a> and alt for img ========
+    $('a').each(function () {
+        $(this).attr('title', $(this).text());
+    });
+
+    var lan = "bn";
+    if (lan == 'en') {
+        $('.mzr-drop a:first-child').each(function () {
+            $(this).attr('title', "Enter to get more menu");
+        });
+    } else {
+        $('.mzr-drop a:first-child').each(function () {
+            $(this).attr('title', "সাবমেনুর জন্য ক্লিক করুন");
+        });
+    }
+    $('img').each(function () {
+        var str = $(this).attr("src");
+        var arr = str.split('/');
+        var strFine = arr[arr.length - 1];
+
+        var str2 = strFine;
+        var arr2 = str2.split('.');
+        var strFine2 = arr2[arr2.length - 2];
+        $(this).attr('alt', strFine2);
+    });
+    $('a2iLogo').attr('alt', 'Access to information');
+    $('.service-box img').each(function () {
+        var strTitle = $(this).parent().find('h4').text();
+        $(this).attr('alt', strTitle);
+    });
+    $('.block img').each(function () {
+        var strTitleRight = $(this).closest('.block').find('.title').text();
+        $(this).attr('alt', strTitleRight);
+    });
+    $('#notice-board-ticker .btn').attr('title', 'সকল নোটিশ');
+    $('#news-ticker .btn').attr('title', 'সকল খবর');
+    $('#search').each(function () {
+        $(this).attr('alt', 'Search');
+    });
+    $('.search-btn').each(function () {
+        $(this).attr('alt', 'Enter to search');
+    });
+    $(".mzr-content").mouseout(function () {
+        $(this).hide();
+    });
+    $(".submenu").mouseover(function () {
+        $(this).siblings('.mzr-content').show();
+    });
+    $(".mzr-content").mouseover(function () {
+        $(this).show();
+    });
+    
+    // ============ end tile for <a> and alt for img ========
+</script>
+
+<script>
+    $(document).ready(function () {
+        $(".slide-panel-button").click(function () {
+            $('#domain-selector-panel').toggle()//animate({height: "toggle"}, 200);
+            if ($('#domain-selector-panel').is(":visible")) {
+                $('#div-lang').css('z-index', '200');
+            } else {
+                $('#div-lang').css('z-index', '1001');
+            }
+            $(".slide-panel-button").toggle();
+        });
+
+    });
+</script>
+
+
+<script>
+       
+       
+        $(function () {
+
+       
+            // doc viewer
+            $('a.viewer').media({width: 720, height: 600});
+            // Slideshow 4
+            $("#front-image-slider").responsiveSlides({
+                auto: true,
+                pager: false,
+                nav: true,
+                speed: 2000,
+                maxwidth: 960,
+                namespace: "callbacks"
+            });
+            $("#right-content a").click(function () {
+                var url = $(this).attr('href');
+                if (isExternal(url) && url != 'javascript:;') {
+                    openInNewTab(url);
+                    return false;
+                }
+            });
+        });
+        function openInNewTab(url) {
+            var win = window.open(url, '_blank');
+            win.focus();
+        }
+        function isExternal(url) {
+            var match = url.match(/^([^:\/?#]+:)?(?:\/\/([^\/?#]*))?([^?#]+)?(\?[^#]*)?(#.*)?/);
+            if (typeof match[1] === "string" && match[1].length > 0 && match[1].toLowerCase() !== location.protocol) return true;
+            if (typeof match[2] === "string" && match[2].length > 0 && match[2].replace(new RegExp(":(" + {
+                        "http:": 80,
+                        "https:": 443
+                    }[location.protocol] + ")?$"), "") !== location.host) return true;
+            return false;
+        }
+
+
+    </script>
+    <script type="text/javascript">
+
+
+        function print_content() {
+            var html_content = $("#printable_area").html();
+
+            newwindow = window.open();
+            newdocument = newwindow.document;
+            newdocument.write(html_content);
+            newdocument.close();
+
+            newwindow.print();
+
+            return false;
+        }
+
+    </script>
+
+
+
+ <!-- ============ start accessibility megamenu ============ -->
+
+ 	<script>
+
+        $(document).ready(function ($) {
+
+
+            $("#dawgdrops").accessibleMegaMenu({
+                /* prefix for generated unique id attributes, which are required
+                 to indicate aria-owns, aria-controls and aria-labelledby */
+                uuidPrefix: "accessible-megamenu",
+
+                /* css class used to define the megamenu styling */
+                menuClass: "meganizr",
+
+                /* css class for a top-level navigation item in the megamenu */
+                topNavItemClass: "mzr-drop",
+
+                /* css class for a megamenu panel */
+                panelClass: "mzr-content",
+
+                /* css class for a group of items within a megamenu panel */
+                panelGroupClass: "mzr-links",
+
+                /* css class for the hover state */
+                hoverClass: "hover",
+
+                /* css class for the focus state */
+                focusClass: "focus-content",
+
+                /* css class for the open state */
+                openClass: "open hover-content"
+            });
+
+        });
+    </script>
+
+
+<script>
+
+    $(document).ready(function () {
+        var wi = $(window).width();
+        if (wi < 769) {
+            $('#printable_area td').removeAttr('style');
+            $('#printable_area td p').css("width", "100%");
+        }
+    });
+    $( ".meganizr .mzr-drop").keyup(function() {
+
+		$(".mzr-content").attr("aria-hidden","true");
+		$(this).find(".mzr-content").attr("aria-hidden", "false");
+	});
+    // ============ start tile for <a> and alt for img ========
+    $('a').each(function() {
+        $(this).attr('title', $(this).text());
+    });
+
+    var lan = "bn";
+    if(lan == 'en'){
+        $('.mzr-drop a:first-child').each(function() {
+                $(this).attr('title', "Enter to get more menu");
+        });
+    }else{
+        $('.mzr-drop a:first-child').each(function() {
+                $(this).attr('title', "সাবমেনুর জন্য ক্লিক করুন");
+        });
+    }
+    $('img').each(function() {
+        var str = $(this).attr("src");
+        var arr = str.split('/');
+        var strFine = arr[arr.length-1];
+
+        var str2 = strFine;
+        var arr2 = str2.split('.');
+        var strFine2 = arr2[arr2.length-2];
+        $(this).attr('alt', strFine2);
+    });
+    $('a2iLogo').attr('alt', 'Access to information');
+    $('.service-box img').each(function() {
+        var strTitle = $(this).parent().find('h4').text();
+        $(this).attr('alt', strTitle);
+    });
+    $('.block img').each(function() {
+        var strTitleRight = $(this).closest('.block').find('.title').text();
+        $(this).attr('alt', strTitleRight);
+    });
+    $('#notice-board-ticker .btn').attr('title', 'সকল নোটিশ');
+    $('#news-ticker .btn').attr('title', 'সকল খবর');
+    $('#search').each(function() {
+        $(this).attr('alt', 'Search');
+    });
+    $('.search-btn').each(function() {
+        $(this).attr('alt', 'Enter to search');
+    });
+    // ============ end tile for <a> and alt for img ========
+
+    // =============== start dropdown design =======
+    $(".mzr-content").mouseout(function(){
+       // $(this).hide();
+    });
+    $(".submenu").mouseover(function(){
+        //$('.mzr-content').show();
+    });
+    $(".mzr-content").mouseover(function(){
+        //$(this).show();
+    });
+    // =============== End dropdown design =======
+
+</script>
+
+
+<div class="footer-artwork" id="footer-artwork">&nbsp;</div>
+	<div class="footer-wrapper full-width" id="footer-wrapper">
+		<div id="footer-menu">
+
+        <ul><li><a href="/site/view/sitemap/সাইটম্যাপ-">সাইটম্যাপ </a></li><li><a href="http://ictd.portal.gov.bd/forms/form/feedback-forms">মতামত প্রদান</a></li><li><a href="">তথ্য ও যোগাযোগ প্রযুক্তি বিভাগের ওয়েব সাইট ভিজিট করার জন্য  ধন্যবাদ </a></li></ul>                    <div style="float: left; font-size: .9em;">
+				সাইটটি শেষ হাল-নাগাদ করা হয়েছে: <span style="font-style: italic;">&#x09E8;&#x09E6;&#x09E8;&#x09E6;-&#x09E6;&#x09EE;-&#x09E8;&#x09ED; &#x09E7;&#x09E9;:&#x09E9;&#x09EA;:&#x09E7;&#x09E8;</span>
+				<!--<span><a href="http://support.portal.gov.bd/" style="color: green" target="_blank"> | <u>হেল্পডেস্ক</u></a></span>-->
+			</div>
+            </div>
+
+		<div class="footer-credit" id="footer">
+        <!--  -->
+
+        
+            <p>
+                পরিকল্পনা ও বাস্তবায়নে:&nbsp;
+                <a href="http://www.cabinet.gov.bd/">মন্ত্রিপরিষদ
+                    বিভাগ</a>,&nbsp;
+                <a href="https://a2i.gov.bd">এটুআই</a>,&nbsp;
+                <a href="http://www.bcc.net.bd/">বিসিসি</a>,&nbsp;
+                <a href="http://doict.gov.bd/">ডিওআইসিটি</a>&nbsp;ও&nbsp;
+                <a href="http://www.basis.org.bd/">বেসিস</a>।
+            </p>
+
+            <!-- <p>
+                কারিগরি সহায়তায়:<a href="https://a2i.gov.bd"><img
+                    style=""
+                    src="/themes/responsive_npf/img/a2i.png"
+                    alt=""></a>
+            </p> -->
+
+            <p>
+               কারিগরি সহায়তায়:
+                   <img style="vertical-align: baseline;" src="/themes/responsive_npf/img/np-logo-set.png" alt="">
+            </p>
+            
+        </div>
+		<!-- /footer -->
+	</div>
+
+
+    
+
+
+    </body>
+
+    </html>

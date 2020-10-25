@@ -1,0 +1,221 @@
+body {
+    margin: 0;
+    background-image: url("images/bg_main.gif");
+   background-repeat: repeat-y;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+.container {
+    width: 74%;
+    margin: auto;
+    padding-top: 50px;
+    background-color: #FFFFFF;
+}
+
+.div-card {
+    background-color: #F5F5F5;
+    border: 1px solid #CFCFCF;
+    box-sizing: border-box;
+}
+
+.left-container {
+    width: 100%;
+}
+
+.left-section {
+    width: 73%;
+    height: 800px;
+    float: left;
+    margin-right: 2%;
+}
+
+.right-section {
+    width: 25%;
+    
+    overflow: hidden;
+}
+
+.pm img {
+    display: block;
+    width: 100%;
+}
+
+.marquee {
+    background-color: #E6E7E8;
+    height: 35px;
+    margin: 8px 0px;
+}
+
+.marquee marquee {
+    padding: 7px
+}
+
+.notice-board {
+    width: 100%;
+}
+
+.notice-board-container {
+    background-image: url("images/bg_notice_board.png");
+    background-repeat: no-repeat;
+}
+
+.notice-board-container-content {
+    padding: 5% 18%;
+}
+
+.news {
+    width: 100%;
+    margin: 23px 0px;
+}
+.card {
+    background-color: #F5F5F5;
+    border: 1px solid #CFCFCF;
+    box-sizing: border-box;
+    border-top: 1px solid #CFCFCF;
+    border-left: 1px solid #CFCFCF;
+    border-bottom: 3px solid #CFCFCF;
+    border-right: 3px solid #CFCFCF;
+    margin-bottom: 2%;
+    padding: 8px 0px 15px 8px;
+    height: 185px;
+}
+.card ul, .internal-server ul{
+    list-style-image: url('images/bullet_tick.png');
+    
+}
+.card li a, .internal-server li a{
+    margin-left: 0;
+}
+.card-container{
+    width: 100%;
+}
+.card-left-container {
+    width: 49%;
+    float: left;
+    margin-right: 2%;
+}
+
+.card-right-container {
+    width: 49%;
+    overflow: hidden;
+}
+
+.card-left-item {
+    width: 40%;
+    float: left;
+    margin-right: -22px
+}
+
+.card-right-item {
+    width:60%;
+    overflow: hidden;
+}
+.card-left-item img, card-right-item img{
+    width: 100%;
+    height: auto
+}
+.video-gallery{
+ background-color: #609513; 
+    height: 35px;
+}
+.video-gallery h4{
+    padding: 9px
+}
+.video img{
+    display: block;
+    float: left;
+}
+.video table{
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    
+}
+.video table, tr, td{
+    border: 1px solid #D8D8D8;
+    padding: 10px;
+}
+.im-link-head{
+    height: 35px;
+    background-color: #609513;
+}
+.im-link h4{
+    padding: 8px;
+    
+}
+.im-link-container{
+    width: 80%;
+    margin: auto;
+}
+.im-link-container table{
+    width: 100%;
+}
+.im-link-container tr, .im-link td{
+    width: 50%;
+}
+.right-section div{
+    
+}
+.right-section h4{
+    background-color: #609513;
+    color: #FFF;
+    padding: 10px;
+}
+.secratary img{
+    width: 116px;
+    height: 143px;
+}
+.iternal-server{
+   
+    text-align: left;
+}
+
+.archieve{
+    text-align: left;
+}
+.archieve ul{
+    list-style-type: none;
+}
+.archieve li a{
+    margin-left: -35px;
+}
+.corona2 img, .ekdesh img{
+    width: 100%;
+}
+.right-section-margin{
+    margin: 15px 0px;
+}
+.anthem audio{
+    width: 100%;
+    
+    
+}
+.social a{
+    display: block;
+    float: left;
+    width: 10%;
+    padding: 2%;
+}
+.social img{
+    width: 100%;
+}
+.bottom-background{
+    width: 74%;
+    margin: auto;
+    background-image: url("images/footer_top_bg.png");
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
+.bottom-background img{
+    width: 100%;
+}
